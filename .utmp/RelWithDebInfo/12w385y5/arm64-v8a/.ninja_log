@@ -1,0 +1,12 @@
+# ninja log v5
+205	4325	7794415711057096	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ffb98af5ca931ac0
+4327	5538	7794415722808731	D:/GameMake/Blood Moon/My Flappy Bird/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/12w385y5/obj/arm64-v8a/libswappywrapper.so	ffec0add1d631710
+82	15027	7794415814386029	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	df3b3ff63573df4a
+64	15389	7794415821704642	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	9839cf5f4047f16b
+4	15558	7794415823337448	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a138c18b1f409b58
+171	15569	7794415823368471	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b6cc68fc0d122d13
+42	15595	7794415823697716	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	23a3edb9d0242c39
+188	15659	7794415824326870	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c33c9880696dd3d1
+99	15784	7794415825576150	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8747497e3cbb44bd
+26	15795	7794415825625878	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c30cf4b6eb17e493
+15795	16229	7794415830076854	D:/GameMake/Blood Moon/My Flappy Bird/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/12w385y5/obj/arm64-v8a/libgame.so	4f861998485ca393
